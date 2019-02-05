@@ -1,8 +1,8 @@
-var app = new Vue({
+var product = "Socks";
+
+var app = new Vue ({
     el: '#app',
-    data: {
-      product: 'Socks'
-    } 
-  })
-  
-  
+    data:   {
+        product: "Socks"
+    }
+})
